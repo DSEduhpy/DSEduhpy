@@ -121,13 +121,13 @@ Também estou disponível para projetos como:
 # Contato
 
 LinkedIn  
-(adicione seu link)
+https://www.linkedin.com/in/eduardo-de-castro-vieira-5b061027b/
 
 GitHub  
 https://github.com/DSEduhpy
 
 Email  
-(adicione seu email profissional)
+eduardodecastroep@gmail.com
 
 ---
 
