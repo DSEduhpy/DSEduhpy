@@ -1,149 +1,150 @@
-# Eduardo de Castro
-**Data Science Student | Python | Data Analysis | Data Engineering**
+# 👋 Olá, eu sou Eduardo de Castro Vieira
 
-Estudante de **Ciência de Dados** com foco em **análise de dados, engenharia de dados e automação com Python**.  
-Tenho experiência prática desenvolvendo **pipelines de dados, análise exploratória e organização de dados reais**, além de projetos envolvendo **processamento de texto e transcrição de entrevistas acadêmicas**.
-
-Atualmente busco minha **primeira oportunidade profissional na área de dados**, onde eu possa aplicar habilidades analíticas, resolver problemas com dados e continuar evoluindo tecnicamente.
-
-Também atuo como **freelancer em projetos de dados e automação em Python**.
+🎯 **Analista de Dados & Cientista de Dados Júnior**
+💻 Python | SQL | ETL | Machine Learning | Power BI
+📍 Brasil
 
 ---
 
-# Tecnologias e Ferramentas
+## 🚀 Sobre mim
 
-**Linguagens**
-- Python
-- SQL
+Sou um profissional em formação em **Ciência de Dados**, com foco na construção de soluções **end-to-end** que integram **engenharia de dados, análise e machine learning**.
 
-**Bibliotecas de Dados**
-- Pandas
-- NumPy
+Tenho experiência prática no desenvolvimento de pipelines escaláveis, transformação de dados brutos em insights acionáveis e criação de sistemas orientados a impacto de negócio.
 
-**Análise e Visualização**
-- Jupyter Notebook
-- Power BI
-- Matplotlib
+Minha abordagem combina:
 
-**Ferramentas**
-- Git
-- GitHub
-- VS Code
-
-**Áreas de Interesse**
-- Data Analysis
-- Data Engineering
-- Machine Learning
-- Data Cleaning
-- ETL Pipelines
+* Engenharia de dados robusta
+* Modelagem analítica eficiente
+* Foco em métricas de negócio (não apenas métricas técnicas)
 
 ---
 
-# Projetos em Destaque
+## 🧠 Principais Competências
 
-## Análise da Pesquisa Nacional de Saúde (PNS)
-Projeto completo de **pipeline de dados e análise exploratória** utilizando dados da Pesquisa Nacional de Saúde.
+### 🔹 Linguagens & Ferramentas
 
-Principais etapas:
+* Python (Pandas, NumPy, Scikit-learn, FastAPI)
+* SQL
+* Power BI
+* Git & GitHub
+* Docker
+* Jupyter / Google Colab
 
-- Coleta e organização de dados
-- Pipeline de **ETL**
-- Limpeza e padronização de dados
-- Análise exploratória
-- Extração de insights sobre **Saúde da Mulher**
+### 🔹 Engenharia de Dados
 
-Tecnologias utilizadas:
-Python • Pandas • Jupyter Notebook
+* ETL pipelines
+* Modelagem de dados (Star Schema)
+* Data Warehousing
+* BigQuery & SQLite
+* Processamento de dados estruturados e não estruturados
 
-Repositório:  
-https://github.com/DSEduhpy/pns_analysis_2013_2019
+### 🔹 Data Science & ML
 
----
-
-## Sistema de Transcrição e Estruturação de Entrevistas Acadêmicas
-Projeto desenvolvido para **processar e estruturar entrevistas acadêmicas gravadas em áudio**.
-
-Funcionalidades do projeto:
-
-- Transcrição de áudios
-- Correção de pontuação
-- Organização textual das entrevistas
-- Estruturação para análise qualitativa
-
-Tecnologias utilizadas:
-Python • Processamento de texto
-
-Repositório:  
-https://github.com/DSEduhpy/audio-transcriber
+* Machine Learning aplicado
+* Modelagem preditiva
+* Feature engineering
+* MLOps (MLflow, DVC)
+* Data storytelling
 
 ---
 
-# Projetos de Estudo
+## 📌 Projetos em Destaque
 
-Repositório com exercícios e experimentos desenvolvidos durante o aprendizado de Python.
+### 💳 Credit Risk MLOps Pipeline *(Em andamento)*
 
-Inclui:
+Sistema completo de decisão de crédito orientado a impacto financeiro.
 
-- Exercícios de lógica
-- Manipulação de arquivos
-- Pequenos sistemas em Python
-- Testes de funcionalidades
+**Destaques:**
 
-Repositório:  
-https://github.com/DSEduhpy/python-learning-exercises
+* Pipeline end-to-end (ingestão → modelagem → deploy → monitoramento)
+* Versionamento com DVC
+* Tracking de experimentos com MLflow
+* API em FastAPI para inferência em tempo real
+* Containerização com Docker
+* Otimização baseada em função de custo de negócio
 
----
+**Resultados:**
 
-# Sobre Mim
-
-Sou apaixonado por **dados, análise e tecnologia**.  
-Meu objetivo é construir soluções que transformem dados em **informação útil para tomada de decisão**.
-
-Atualmente estou:
-
-- Aprofundando conhecimentos em **Python para dados**
-- Desenvolvendo **projetos práticos**
-- Buscando minha **primeira oportunidade profissional na área de dados**
+* AUC ~0.75 | Recall ~0.64
+* Impacto estimado: **+R$ 23 milhões**
 
 ---
 
-# Disponível para Freelance
+### 📊 Sales Data Pipeline & Analytics
 
-Também estou disponível para projetos como:
+Solução completa de dados com pipeline + modelagem + dashboard.
 
-- Limpeza e organização de dados
-- Automação com Python
-- Análise exploratória de dados
-- Estruturação de dados para pesquisa acadêmica
+**Destaques:**
 
----
-
-# Contato
-
-LinkedIn  
-https://www.linkedin.com/in/eduardo-de-castro-vieira-5b061027b/
-
-GitHub  
-https://github.com/DSEduhpy
-
-Email  
-eduardodecastroep@gmail.com
+* Pipeline ETL em Python
+* Modelagem dimensional (Star Schema)
+* KPIs de negócio (receita, ticket médio, volume)
+* Dashboard interativo em Power BI
+* Foco em **data storytelling**
 
 ---
 
-⭐ Se você trabalha com dados ou tecnologia, fique à vontade para explorar meus projetos.## Hi there 👋
+## 💼 Experiência
 
-<!--
-**DSEduhpy/DSEduhpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 Desenvolvedor Python Freelancer
 
-Here are some ideas to get you started:
+Automação de transcrição com Whisper AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Processamento de áudio em escala
+* Estruturação de dados não estruturados
+* Melhoria de qualidade de transcrição (+15%)
+* Logging e rastreabilidade
+
+---
+
+### 🔹 Analista/Engenheiro de Dados Freelancer
+
+Pipeline de dados para pesquisa acadêmica (PNS - IBGE)
+
+* Integração com BigQuery
+* Pipeline ETL completo
+* Camada semântica para análise
+* Arquitetura modular escalável
+* Otimização de custo e performance
+
+---
+
+## 🎓 Formação
+
+* 🎓 Tecnólogo em Ciência de Dados (em andamento)
+* 📘 Inglês (leitura) | Espanhol (leitura e escrita)
+
+---
+
+## 📈 O que você pode esperar dos meus projetos
+
+✔ Código organizado e modular
+✔ Pipeline reproduzível
+✔ Foco em problema de negócio
+✔ Documentação clara
+✔ Boas práticas de engenharia
+
+---
+
+## 📫 Contato
+
+* 📧 Email: [eduardodecastroep@gmail.com](mailto:eduardodecastroep@gmail.com)
+* 💼 LinkedIn: linkedin.com/in/eduardo-de-castro-vieira-5b061027b
+* 💻 GitHub: github.com/DSEduhpy
+
+---
+
+## ⚡ Objetivo
+
+Busco oportunidades como:
+
+* Data Analyst
+* Data Scientist Jr
+* Data Engineer Jr
+
+Com foco em ambientes orientados a dados, onde eu possa gerar impacto real através de **dados, automação e machine learning**.
+
+---
+
+⭐ Se algum projeto te interessar, fique à vontade para explorar ou entrar em contato!
