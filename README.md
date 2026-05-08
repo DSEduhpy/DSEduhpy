@@ -1,150 +1,53 @@
-# 👋 Olá, eu sou Eduardo de Castro Vieira
+# Olá, eu sou Eduardo de Castro 👋
 
-🎯 **Analista de Dados & Cientista de Dados Júnior**
-💻 Python | SQL | ETL | Machine Learning | Power BI
-📍 Brasil
+<p align="center">
+  <a href="https://github.com/DSEduhpy">
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Eduardo%20de%20Castro&fontSize=90&animation=fadeIn&fontColor=FFFFFF" alt="Capsule Render"/>
+  </a>
+</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E018&width=435&lines=Cientista+de+Dados;Desenvolvedor+Python;Especialista+em+Machine+Learning;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+</p>
 
-## 🚀 Sobre mim
+## 🚀 Sobre Mim
 
-Sou um profissional em formação em **Ciência de Dados**, com foco na construção de soluções **end-to-end** que integram **engenharia de dados, análise e machine learning**.
+Sou **Eduardo de Castro**, um profissional apaixonado por **Ciência de Dados** com expertise em **Python**, **Pandas**, **SQL** e **Machine Learning**. Minha jornada é impulsionada pela busca de soluções inovadoras e pela transformação de dados em insights acionáveis. Atualmente, estou focado em aprimorar minhas habilidades em **MLOps** e **Data Pipelines**, construindo sistemas robustos e escaláveis para o futuro da tecnologia. Resido em Juiz de Fora, MG, e estou sempre em busca de novos desafios e oportunidades para aplicar meu conhecimento e crescer profissionalmente.
 
-Tenho experiência prática no desenvolvimento de pipelines escaláveis, transformação de dados brutos em insights acionáveis e criação de sistemas orientados a impacto de negócio.
+## 🛠️ Minhas Habilidades
 
-Minha abordagem combina:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,jupyter,sql,git,github,vscode,linux,docker,aws,gcp,azure,tensorflow,pytorch,scikitlearn,powerbi,tableau" alt="Skills" />
+</p>
 
-* Engenharia de dados robusta
-* Modelagem analítica eficiente
-* Foco em métricas de negócio (não apenas métricas técnicas)
+## 📊 Estatísticas do GitHub
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DSEduhpy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DSEduhpy&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSEduhpy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
-## 🧠 Principais Competências
+## 🏆 Troféus do GitHub
 
-### 🔹 Linguagens & Ferramentas
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DSEduhpy&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
 
-* Python (Pandas, NumPy, Scikit-learn, FastAPI)
-* SQL
-* Power BI
-* Git & GitHub
-* Docker
-* Jupyter / Google Colab
+## 📈 Atividade Recente
 
-### 🔹 Engenharia de Dados
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DSEduhpy&theme=github-compact&hide_border=true" alt="Activity Graph" />
+</p>
 
-* ETL pipelines
-* Modelagem de dados (Star Schema)
-* Data Warehousing
-* BigQuery & SQLite
-* Processamento de dados estruturados e não estruturados
+## 🔗 Conecte-se Comigo
 
-### 🔹 Data Science & ML
-
-* Machine Learning aplicado
-* Modelagem preditiva
-* Feature engineering
-* MLOps (MLflow, DVC)
-* Data storytelling
-
----
-
-## 📌 Projetos em Destaque
-
-### 💳 Credit Risk MLOps Pipeline *(Em andamento)*
-
-Sistema completo de decisão de crédito orientado a impacto financeiro.
-
-**Destaques:**
-
-* Pipeline end-to-end (ingestão → modelagem → deploy → monitoramento)
-* Versionamento com DVC
-* Tracking de experimentos com MLflow
-* API em FastAPI para inferência em tempo real
-* Containerização com Docker
-* Otimização baseada em função de custo de negócio
-
-**Resultados:**
-
-* AUC ~0.75 | Recall ~0.64
-* Impacto estimado: **+R$ 23 milhões**
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduardo-de-castro-dse" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:seu.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <!-- Adicione outros links sociais aqui, se desejar -->
+</p>
 
 ---
 
-### 📊 Sales Data Pipeline & Analytics
-
-Solução completa de dados com pipeline + modelagem + dashboard.
-
-**Destaques:**
-
-* Pipeline ETL em Python
-* Modelagem dimensional (Star Schema)
-* KPIs de negócio (receita, ticket médio, volume)
-* Dashboard interativo em Power BI
-* Foco em **data storytelling**
-
----
-
-## 💼 Experiência
-
-### 🔹 Desenvolvedor Python Freelancer
-
-Automação de transcrição com Whisper AI
-
-* Processamento de áudio em escala
-* Estruturação de dados não estruturados
-* Melhoria de qualidade de transcrição (+15%)
-* Logging e rastreabilidade
-
----
-
-### 🔹 Analista/Engenheiro de Dados Freelancer
-
-Pipeline de dados para pesquisa acadêmica (PNS - IBGE)
-
-* Integração com BigQuery
-* Pipeline ETL completo
-* Camada semântica para análise
-* Arquitetura modular escalável
-* Otimização de custo e performance
-
----
-
-## 🎓 Formação
-
-* 🎓 Tecnólogo em Ciência de Dados (em andamento)
-* 📘 Inglês (leitura) | Espanhol (leitura e escrita)
-
----
-
-## 📈 O que você pode esperar dos meus projetos
-
-✔ Código organizado e modular
-✔ Pipeline reproduzível
-✔ Foco em problema de negócio
-✔ Documentação clara
-✔ Boas práticas de engenharia
-
----
-
-## 📫 Contato
-
-* 📧 Email: [eduardodecastroep@gmail.com](mailto:eduardodecastroep@gmail.com)
-* 💼 LinkedIn: linkedin.com/in/eduardo-de-castro-vieira-5b061027b
-* 💻 GitHub: github.com/DSEduhpy
-
----
-
-## ⚡ Objetivo
-
-Busco oportunidades como:
-
-* Data Analyst
-* Data Scientist Jr
-* Data Engineer Jr
-
-Com foco em ambientes orientados a dados, onde eu possa gerar impacto real através de **dados, automação e machine learning**.
-
----
-
-⭐ Se algum projeto te interessar, fique à vontade para explorar ou entrar em contato!
+_Este README foi gerado e otimizado por Manus AI._
