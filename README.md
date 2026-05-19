@@ -6,7 +6,19 @@
 📚 Atualmente aprofundando conhecimentos em pipelines ETL, deploy de modelos e arquitetura de dados  
 💡 Interesse em IA aplicada, analytics e soluções orientadas a dados
 
----
+
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DSEduhpy&show_icons=true&theme=merko"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DSEduhpy&layout=compact&theme=merko"/>
+
+</div>
+
+
 
 ## 🚀 Tech Stack
 
@@ -16,29 +28,17 @@
 
 </div>
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DSEduhpy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSEduhpy&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DSEduhpy&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=DSEduhpy&theme=merko"/>
 
 </div>
 
----
+
 
 ## 🏆 GitHub Trophies
 
@@ -48,17 +48,17 @@
 
 </div>
 
----
+
 
 ## 🌎 Contato
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEULINK">
+<a href="https://www.linkedin.com/in/eduardo-de-castro-vieira-5b061027b/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:eduardodecastroep@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
