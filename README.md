@@ -1,14 +1,98 @@
-# Olá, eu sou o Eduh 👋
+# Hi 👋, I'm Eduh
 
-🎓 Estudante de Ciência de Dados  
-📊 Focado em Data Science, Machine Learning e Engenharia de Dados  
-🚀 Desenvolvendo projetos end-to-end com Python, SQL e MLOps  
-📚 Atualmente aprofundando conhecimentos em pipelines ETL, deploy de modelos e arquitetura de dados  
-💡 Interesse em IA aplicada, analytics e soluções orientadas a dados
+🚀 **Data Scientist & Junior Data Engineer**  
+🐍 Python | 🗄️ SQL | 🤖 Machine Learning | ⚙️ MLOps  
+🇧🇷 Brazil
 
+I build data-driven solutions focused on **scalability**, **automation**, and **business impact**.
 
+My main interests include:
+- ⚙️ Data Engineering & ETL Pipelines
+- 🤖 Machine Learning & MLOps
+- 📊 Analytics & Business Intelligence
+- ☁️ Cloud & Scalable Data Architectures
+- 🔄 Workflow Automation & Optimization
 
-## 📈 GitHub Stats
+I’m deeply focused on:
+- clean and maintainable code
+- performance optimization
+- scalable data systems
+- real-world business solutions
+
+I also share knowledge and document my learning journey in:
+- Data Science
+- Machine Learning
+- Data Engineering
+- Tech & Analytics
+
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/DSEduhpy">
+    <img src="https://img.shields.io/badge/GitHub-DSEduhpy-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/eduardo-de-castro-vieira-5b061027b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Eduardo%20de%20Castro%20Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:eduardodecastroep@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-eduardodecastroep%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 What I do
+
+- ⚙️ **Data Pipelines & ETL:** Building automated ETL workflows, scalable ingestion pipelines, and optimized data processing solutions.
+
+- 🤖 **MLOps & Machine Learning:** Developing end-to-end ML pipelines, model training workflows, experiment tracking, and deployment strategies.
+
+- 📊 **Dashboards & Analytics:** Creating interactive dashboards and transforming raw data into actionable business insights.
+
+- ⚡ **Query & Cost Optimization:** Optimizing SQL queries, improving data workflow performance, and reducing computational costs.
+
+- 🔄 **Data Versioning & Automation:** Implementing reproducible workflows, automation pipelines, and scalable version control practices.
+
+---
+
+## 🛠️ Tech Stack
+
+### Data Science & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-2C3E50?style=for-the-badge&logo=xgboost&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Data Engineering & Databases
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF2?style=for-the-badge&logo=google-bigquery&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### BI & Analytics
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### MLOps, DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=data-version-control&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -18,17 +102,7 @@
 
 </div>
 
-
-
-## 🚀 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,docker,git,github,vscode" />
-
-</div>
-
-
+---
 
 ## 🔥 GitHub Activity
 
@@ -42,28 +116,13 @@
 
 </div>
 
+---
 
+## 🚀 Philosophy
 
-## 🏆 GitHub Trophies
+> _"Data becomes valuable when transformed into scalable solutions that drive real impact."_
 
-<div align="center">
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=DSEduhpy&theme=tokyonight&no-frame=true&row=1"/>
-
-</div>
-
-
-
-## 🌎 Contato
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/eduardo-de-castro-vieira-5b061027b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:eduardodecastroep@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+⭐ If you like my work, consider starring a repository  
+🤝 Open to collaborations in Data Science, Machine Learning, and Data Engineering
