@@ -30,11 +30,15 @@
 
 
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DSEduhpy&theme=merko"/>
+<img src="https://streak-stats.demolab.com?user=DSEduhpy&theme=merko&hide_border=true" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/DSEduhpy/DSEduhpy/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
