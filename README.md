@@ -1,98 +1,184 @@
-# Hi 👋, I'm Eduh
+# 👋 Hi, I'm Eduardo Castro Vieira (Eduh)
 
-🚀 **Data Scientist & Junior Data Engineer**  
-🐍 Python | 🗄️ SQL | 🤖 Machine Learning | ⚙️ MLOps  
+### Data Scientist • Data Engineer • MLOps Engineer
+
+I'm passionate about building **production-ready data products**, combining Data Engineering, Machine Learning and MLOps to transform raw data into scalable business solutions.
+
+Currently focused on designing complete end-to-end systems, from data ingestion to model deployment, monitoring and continuous improvement.
+
 🇧🇷 Brazil
-
-I build data-driven solutions focused on **scalability**, **automation**, and **business impact**.
-
-My main interests include:
-- ⚙️ Data Engineering & ETL Pipelines
-- 🤖 Machine Learning & MLOps
-- 📊 Analytics & Business Intelligence
-- ☁️ Cloud & Scalable Data Architectures
-- 🔄 Workflow Automation & Optimization
-
-I’m deeply focused on:
-- clean and maintainable code
-- performance optimization
-- scalable data systems
-- real-world business solutions
-
-I also share knowledge and document my learning journey in:
-- Data Science
-- Machine Learning
-- Data Engineering
-- Tech & Analytics
 
 ---
 
-## 🌐 Where to find me
+# 🚀 What I'm Building
+
+My current focus is developing real-world projects involving:
+
+- 📦 End-to-End Machine Learning Pipelines
+- ⚙️ Data Engineering & ETL
+- 🤖 MLOps & Model Lifecycle
+- 📈 Business-Oriented Machine Learning
+- ☁️ Scalable Data Architectures
+- 📊 Decision Support Systems
+
+Instead of building isolated notebooks, I enjoy creating production-grade applications that include:
+
+- reproducible pipelines
+- automated testing
+- model versioning
+- monitoring
+- explainability
+- APIs
+- documentation
+- software engineering best practices
+
+---
+
+# 🧠 Current Interests
+
+- Machine Learning
+- Data Engineering
+- MLOps
+- Software Architecture
+- Cloud Computing
+- Distributed Systems
+- Artificial Intelligence
+- Business Analytics
+
+---
+
+# 🌎 Connect with me
 
 <p align="left">
-  <a href="https://github.com/DSEduhpy">
-    <img src="https://img.shields.io/badge/GitHub-DSEduhpy-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/eduardo-de-castro-vieira-5b061027b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Eduardo%20de%20Castro%20Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://github.com/DSEduhpy">
+<img src="https://img.shields.io/badge/GitHub-DSEduhpy-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="mailto:eduardodecastroep@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-eduardodecastroep%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/eduardo-de-castro-vieira-5b061027b/">
+<img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Castro%20Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:eduardodecastroep@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🧠 What I do
+# 💼 Featured Projects
 
-- ⚙️ **Data Pipelines & ETL:** Building automated ETL workflows, scalable ingestion pipelines, and optimized data processing solutions.
+## 🏦 Credit Risk MLOps Pipeline
 
-- 🤖 **MLOps & Machine Learning:** Developing end-to-end ML pipelines, model training workflows, experiment tracking, and deployment strategies.
+Production-ready credit risk prediction platform built using modern MLOps practices.
 
-- 📊 **Dashboards & Analytics:** Creating interactive dashboards and transforming raw data into actionable business insights.
+### Highlights
 
-- ⚡ **Query & Cost Optimization:** Optimizing SQL queries, improving data workflow performance, and reducing computational costs.
+- End-to-End Pipeline
+- Feature Engineering
+- Business Metrics Optimization
+- Threshold Optimization
+- Explainable AI (SHAP)
+- MLflow Experiment Tracking
+- DVC Pipeline
+- FastAPI
+- Docker
+- Automated Testing
+- Drift Detection
+- Modular Configuration System
 
-- 🔄 **Data Versioning & Automation:** Implementing reproducible workflows, automation pipelines, and scalable version control practices.
+**140 automated tests**
+
+**Production-oriented architecture**
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 Operational Analytics Platform
 
-### Data Science & Machine Learning
+Data warehouse and Business Intelligence solution integrating production and administrative information.
+
+Features:
+
+- ETL Pipelines
+- Star Schema Modeling
+- Power BI Dashboards
+- KPI Monitoring
+- Business Reporting
+
+---
+
+## 🩺 National Health Survey (PNS)
+
+Research project developed for UFJF involving Brazilian National Health Survey datasets.
+
+Technologies:
+
+- Python
+- BigQuery
+- SQLite
+- Data Cleaning
+- Semantic Layer
+- ETL Pipelines
+
+---
+
+# ⚙️ Tech Stack
+
+## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-2C3E50?style=for-the-badge&logo=xgboost&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Data Engineering & Databases
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF2?style=for-the-badge&logo=google-bigquery&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### BI & Analytics
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### MLOps, DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=data-version-control&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## Data Engineering
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PyArrow](https://img.shields.io/badge/PyArrow-4B8BBE?style=for-the-badge)
+![Google BigQuery](https://img.shields.io/badge/BigQuery-669DF2?style=for-the-badge&logo=google-bigquery)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+---
+
+## Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![XGBoost](https://img.shields.io/badge/XGBoost-2C3E50?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
+
+---
+
+## MLOps
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+---
+
+## APIs & Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+
+---
+
+## BI
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi)
+
+---
+
+## Development
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+# 📈 GitHub Statistics
 
 <div align="center">
 
@@ -104,25 +190,41 @@ I also share knowledge and document my learning journey in:
 
 ---
 
-## 🔥 GitHub Activity
+# 🔥 Contribution Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DSEduhpy&theme=merko&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=DSEduhpy&theme=merko&hide_border=true"/>
 
-<br><br>
+<br>
 
-<img src="https://raw.githubusercontent.com/DSEduhpy/DSEduhpy/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/DSEduhpy/DSEduhpy/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-## 🚀 Philosophy
+# 🎯 Currently Learning
 
-> _"Data becomes valuable when transformed into scalable solutions that drive real impact."_
+- Advanced MLOps
+- Databricks
+- Apache Spark
+- Cloud Architecture
+- Kubernetes
+- CI/CD for Machine Learning
+- Model Monitoring
+- Data Quality Engineering
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Open to collaborations in Data Science, Machine Learning, and Data Engineering
+# 💡 Philosophy
+
+> "Machine Learning creates predictions. Engineering creates products."
+
+I believe the greatest value comes from transforming models into reliable, maintainable and scalable systems that solve real business problems.
+
+---
+
+⭐ Feel free to explore my repositories.
+
+I'm always open to discussing Data Engineering, Machine Learning, MLOps and Software Engineering.
